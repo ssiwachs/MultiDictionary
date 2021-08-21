@@ -1,0 +1,13 @@
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\bin\Release\netcoreapp3.1\MultiDictionary.exe
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\bin\Release\netcoreapp3.1\MultiDictionary.deps.json
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\bin\Release\netcoreapp3.1\MultiDictionary.runtimeconfig.json
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\bin\Release\netcoreapp3.1\MultiDictionary.runtimeconfig.dev.json
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\bin\Release\netcoreapp3.1\MultiDictionary.dll
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\bin\Release\netcoreapp3.1\MultiDictionary.pdb
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Release\netcoreapp3.1\MultiDictionary.csprojAssemblyReference.cache
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Release\netcoreapp3.1\MultiDictionary.AssemblyInfoInputs.cache
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Release\netcoreapp3.1\MultiDictionary.AssemblyInfo.cs
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Release\netcoreapp3.1\MultiDictionary.csproj.CoreCompileInputs.cache
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Release\netcoreapp3.1\MultiDictionary.dll
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Release\netcoreapp3.1\MultiDictionary.pdb
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Release\netcoreapp3.1\MultiDictionary.genruntimeconfig.cache
