@@ -365,7 +365,7 @@ namespace MultiDictionary.Services
         //     Returns true if Dictionary is null
         private bool IsEmpty()
         {
-            return entries == null;
+            return entries.Count == 0;
         }
         #endregion
     }

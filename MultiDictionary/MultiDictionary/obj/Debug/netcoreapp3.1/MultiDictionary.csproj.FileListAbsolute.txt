@@ -10,3 +10,4 @@ C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Debug\netcorea
 C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Debug\netcoreapp3.1\MultiDictionary.dll
 C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Debug\netcoreapp3.1\MultiDictionary.pdb
 C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Debug\netcoreapp3.1\MultiDictionary.genruntimeconfig.cache
+C:\Users\u782401\source\repos\MultiDictionary\MultiDictionary\obj\Debug\netcoreapp3.1\MultiDictionary.csprojAssemblyReference.cache
