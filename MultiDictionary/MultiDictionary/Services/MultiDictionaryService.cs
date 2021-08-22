@@ -348,7 +348,15 @@ namespace MultiDictionary.Services
             if (!IsEmpty())
             {
                 var values = AllMembersForKey(key);
-                return values.Count();
+                if (values!=null)
+                {
+                    return values.Count();
+                }
+                else
+                {
+                    message = "No such key";
+                    return 0;
+                }
             }
             else
             {
